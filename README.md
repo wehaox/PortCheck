@@ -27,5 +27,8 @@ https://raw.githubusercontents.com/wehaox/PortCheck/main/PortCheck.exe
 ```
 
 # 更新
+2022.10.26  
+增加错误提示，ip按正常循序显示  
+
 2022.10.20  
 现在ip直接从网卡读取，以fast启动时，应该也可以直接获取公网IP
