@@ -7,7 +7,7 @@
 使用浏览器打开 http://ip:port 即可  
 ### Linux快速启动
 ```bash
-wget https://raw.githubusercontents.com/wehaox/PortCheck/main/PortCheck && chmod +x ./PortCheck && ./PortCheck_Linux -p 8001
+wget https://raw.githubusercontents.com/wehaox/PortCheck/main/PortCheck && chmod +x ./PortCheck && ./PortCheck -p 8001
 ```
 ### Windows下载
 https://raw.githubusercontents.com/wehaox/PortCheck/main/PortCheck.exe  
